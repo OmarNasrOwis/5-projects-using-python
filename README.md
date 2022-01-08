@@ -2,4 +2,4 @@
 **this repository comprises 5 easy projects with python** 
 
 Projects:
-1.Calculator (calculator.py)
+1. Calculator (calculator.py)
